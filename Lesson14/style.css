@@ -1,0 +1,28 @@
+body{
+	background-color: #e3e3e3;
+	font-family: sans-serif;
+}
+.wrap{
+	width: 600px;
+	margin: auto;
+}
+blockquote{
+	border: 1px solid;
+	border-color: rgba(0,0,0,0);
+	border-radius: 6px;
+	background-color: white;	
+	background-position: center;
+	text-align:center;
+	margin-left: 0;
+}
+h1{
+	font-size: 40px;
+}
+ul{
+	width: 480px;
+	border: 1px solid;
+	border-color: rgba(0,0,0,0);
+	border-width: 20px;
+	background-color: white;
+
+}
